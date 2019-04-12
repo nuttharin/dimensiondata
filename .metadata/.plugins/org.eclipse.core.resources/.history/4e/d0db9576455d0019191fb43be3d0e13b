@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class Assessment_1 {
+
+	public static int FirstFactorial(int num) {
+        if(num == 1) return 1 ;
+        return num * FirstFactorial(num-1);
+    }
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int number ;
+		int ans = 0 ;
+		System.out.print("Input : ");
+		number = input.nextInt();
+		ans = FirstFactorial(number);
+		System.out.print("Output : "+ans);
+	
+		
+	}
+
+}

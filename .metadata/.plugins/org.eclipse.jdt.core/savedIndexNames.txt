@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\nut_5\OneDrive\à´Ê¡ì·çÍ»\pj\dimensiondata\.metadata\.plugins\org.eclipse.jdt.core
+643396238.index
+3209700148.index
+3361149858.index

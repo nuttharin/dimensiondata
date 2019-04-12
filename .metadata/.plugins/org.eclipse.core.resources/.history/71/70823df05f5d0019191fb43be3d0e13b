@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Assessment_3 {
+
+	public static String AlphabetSoup(String str){
+		String sortStr = "";
+		return sortStr ;
+		
+	}
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String str ;	
+		System.out.print("Input : ");
+		str = input.nextLine();
+		System.out.print("Output : "+AlphabetSoup(str));
+	}
+
+}
